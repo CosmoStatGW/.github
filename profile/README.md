@@ -14,5 +14,4 @@ Maintained by groups at the [University of Geneva](<https://fiteoweb.unige.ch/~m
 * Forecast tools for gravitational-wave stochastic background: gwfast/stochastic
 
 ## Contributors
-[Michele Mancarella](<https://www.cpt.univ-mrs.fr/~mancarella>), [Francesco Iacovelli](<https://github.com/FrancescoIacovelli>), [Niccolò Muttoni](<https://github.com/nmutto>), [Viola De Renzis](<https://github.com/
-ViolaDeRenzis>), [Stefano Foffa](<https://github.com/stefanofoffa>),  [Enis Belgacem](<https://github.com/enisbelgacem2>),  [Nicola Borghi](<https://github.com/nicoborghi>), [Andreas Finke](<https://github.com/AndreasFinke>)
+[Michele Mancarella](<https://www.cpt.univ-mrs.fr/~mancarella>), [Francesco Iacovelli](<https://github.com/FrancescoIacovelli>), [Niccolò Muttoni](<https://github.com/nmutto>), [Viola De Renzis](<https://github.com/ViolaDeRenzis>), [Stefano Foffa](<https://github.com/stefanofoffa>),  [Enis Belgacem](<https://github.com/enisbelgacem2>),  [Nicola Borghi](<https://github.com/nicoborghi>), [Andreas Finke](<https://github.com/AndreasFinke>)
