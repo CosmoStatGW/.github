@@ -32,6 +32,11 @@ Maintained by groups at the [University of Geneva](<https://fiteoweb.unige.ch/~m
 * [gwfast/stochastic](<https://github.com/CosmoStatGW/gwfast/gwfast/stochastic>). Developers/Maintainers: N. Muttoni, F. Iacovelli, E. Belgacem (U. of Geneva, Johns Hopkins)
 
 
+#### Differentiable GW waveforms in python
+
+* [WF4Py](<https://github.com/CosmoStatGW/WF4Py>). Developer/Maintainer: F. Iacovelli (U. of Geneva/ Johns Hopkins)
+
+
 ## Contributors
 [Enis Belgacem](<https://github.com/enisbelgacem2>),
 [Nicola Borghi](<https://github.com/nicoborghi>), 
